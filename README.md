@@ -1,6 +1,4 @@
 # Video-Scrolling-site
- 
-## Видео-сайт с фичей скроллинга на js
 
 ## Portfolio: https://vladimirsaenko.github.io/Portfolio-2/sites/site-6/Video%20Scrolling/index.html
 
